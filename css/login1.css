@@ -1,0 +1,26 @@
+body{
+    text-align: center;
+    background-color: black;
+}
+h1{
+    color: brown;
+}
+#all{
+    color: white;
+    margin: 300px;
+    font-family: "Rye", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+.q{
+    font-size: large;
+    color: brown;
+}
+span{
+    margin-left: 25px;
+}
+button{
+    font-size: large;
+    background-color: brown;
+    color: white;
+}

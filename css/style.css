@@ -1,0 +1,88 @@
+nav{
+    background-color: black;
+    margin: 0px;
+    height: 100px;
+}
+#ul1 {
+    text-align: center;
+    padding: 5px;
+    margin-top: -80px;
+}
+#ul1 li{
+    display: inline;
+    margin-right: 25px;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+.ii{
+    margin-top: 10px;
+}
+#nav{
+  font-family: "Rye", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+#history{
+    font-family: "Permanent Marker", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+#mid{
+  font-family: "Honk", system-ui;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-variation-settings:
+    "MORF" 15,
+    "SHLN" 50;
+}
+.div1{
+    border: 1px solid black;
+    display: inline-block;
+    margin-left: 10%;
+    margin-top: 30px;
+    padding: 0px 10px 40px 10px;
+}
+.div2{
+    border: 1px solid black;
+    display: inline-block;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 30px;
+    padding: 0px 10px 40px 10px;
+}
+.div3{
+    border: 1px solid black;
+    display: inline-block;
+    margin-right: 10%;
+    margin-top: 30px;
+    padding: 0px 10px 40px 10px;
+}
+.iii{
+    height: 420px;
+    width: 300px;
+}
+footer{
+    width: 100%;
+    margin-top: 30px;
+    background-color: black;
+    display: inline-block;
+}
+.fot1{
+    display: inline;
+    margin-right: 25px;
+}
+#foth{
+    display: block;
+}
+.p{
+    color: white;
+}
+footer{
+    text-align: center;
+    font-family: "Rubik Moonrocks", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}

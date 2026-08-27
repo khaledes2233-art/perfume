@@ -1,0 +1,83 @@
+body{
+    background-color: black;
+    color: white;
+    font-family: "Permanent Marker", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+iframe{
+    margin-left: 35%;
+}
+h1{
+    text-align: center;
+}
+.div1{
+    border: 1px solid white;
+    display: inline-block;
+    margin-top: 10px;
+    padding: 0px 10px 20px 10px;
+    margin-left: 8%;
+}
+.div2{
+    border: 1px solid white;
+    display: inline-block;
+    margin-top: 10px;
+    padding: 0px 10px 20px 10px;
+    margin-left: 8%;
+    margin-right: 8%;
+}
+.div3{
+    border: 1px solid white;
+    display: inline-block;
+    margin-top: 10px;
+    padding: 0px 10px 20px 10px;
+    margin-right: 8%;
+}
+.div4{
+    border: 1px solid white;
+    display: inline-block;
+    margin-top: 10px;
+    padding: 0px 10px 20px 10px;
+    margin-left: 8%;
+}
+.div5{
+    border: 1px solid white;
+    display: inline-block;
+    margin-top: 10px;
+    padding: 0px 10px 20px 10px;
+    margin-left: 8%;
+    margin-right: 8%;
+}
+.div6{
+    border: 1px solid white;
+    display: inline-block;
+    margin-top: 10px;
+    padding: 0px 10px 20px 10px;
+    margin-right: 8%;
+}
+.div7{
+    border: 1px solid white;
+    display: inline-block;
+    margin-top: 10px;
+    padding: 0px 10px 20px 10px;
+    margin-left: 8%;
+}
+.div8{
+    border: 1px solid white;
+    display: inline-block;
+    margin-top: 10px;
+    padding: 0px 10px 20px 10px;
+    margin-left: 8%;
+    margin-right: 8%;
+}
+.div9{
+    border: 1px solid white;
+    display: inline-block;
+    margin-top: 10px;
+    padding: 0px 10px 20px 10px;
+    margin-right: 8%;
+}
+img{
+    height: 400px;
+    width: 370px;
+}
